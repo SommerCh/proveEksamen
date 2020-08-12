@@ -1,0 +1,7 @@
+.footer {
+    height: 400px;
+    background-color: #333333;
+    color: white;
+    text-align: center;
+}
+.copy{background-color: black;margin: 4% 0 0 0;height: 200px; padding: 2% 0 0 0;color: grey;}
